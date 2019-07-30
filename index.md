@@ -30,7 +30,8 @@ If you sign up with a Social Media Account, you can choose which information you
 
 Game Data: 
 
-Your game statistics, scores playing time, use of functions, purchase history is game data we can collect.
+Your game statistics, scores, playing time, use of functions, purchase history is game data we collect. 
+This could be mobile device IDs, demographic (IP address) or interest data, and content viewed or actions taken on our apps.
 
 Payments: 
 
@@ -42,6 +43,13 @@ How do we collect your data ?
 Every time you reveal your personal data it can be collected ( sign up, in-app-purchases, contacting customer support, etc. ).
 
 
+This data is collected via external tools (Software Development Kits / SDKs) implemented in our applications:
+
+-Vungle (advertising SDK)
+-AppLovin (advertising SDK)
+-Admob (advertising SDK)
+-Firebase Analytics (advertising SDK)
+
 How do we use your personal data ?
 
 AppAce uses your personal data to understand customer needs, provide better user experience and set up statistics about the use of our products. The data is used and collected as mentioned in this Privacy Policy.
@@ -52,7 +60,7 @@ Security:
 
 We put emphasis on your Privacy. To protect your data we do everything we can to make sure that your data does not fall into the wrong hands. Your sensitive data is stored on safe databases. You should consider that it is also your responsibility to keep certain data safe, like passwords or any data that provides access to your personal information.
 And you should consider that there is a small likelihood to lose data under certain circumstances ( errors etc. ) , so your data will never be 100% safe.
-We store your personal data, if required, as long as you use our services or until you delete it yourself by requesting a deletion. 
+We store your personal data for a maximum duration of 13 months. 
 
 
 What are your data protection rights ?

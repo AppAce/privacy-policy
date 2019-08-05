@@ -46,6 +46,7 @@ Every time you reveal your personal data it can be collected ( sign up, in-app-p
 This data is collected via external tools (Software Development Kits / SDKs) implemented in our applications:
 
 •Vungle (advertising SDK)
+
 •AppLovin (advertising SDK)
 •Admob (advertising SDK)
 •Firebase Analytics (advertising SDK)

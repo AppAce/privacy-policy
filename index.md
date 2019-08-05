@@ -83,8 +83,12 @@ If you make a request we have one month to respond to you. If you would like to 
 
 Privacy Policies of other services:
 
-Our Services may provide links to other services. Our privacy policy applies only to our services, so if we redirect you to another service you should read their privacy policy.
+We may provide links to third parties. Our privacy policy applies only to our services, so if we redirect you to a third party you should read their privacy policy.
 
+Age Requirement:
+
+Our Apps are not for users under the age of 16.
+We do not knowingly collect data of users under the age of 16.
 
 Changes to our Privacy Policy:
 
